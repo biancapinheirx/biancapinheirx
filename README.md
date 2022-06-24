@@ -11,7 +11,8 @@
   <a href = "mailto:contatobiancapinheiropassos15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_"></a>
   <a href="https://www.linkedin.com/in/bianca-pinheiro-passos-b64221197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapinheirx&show_icons=true&theme=radical)
+  ![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapinheirx&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapinheirx&show_icons=true&theme=dark)](https://github.com/biancapinheirx/github-readme-stats)
   
   ## Tecnologias
   
