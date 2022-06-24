@@ -1,19 +1,11 @@
 ### Olá, sou a Bianca Pinheiro
 
-<!--
-**biancapinheirx/biancapinheirx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 🌱 Estudante de Analise e Desenvolvimento de Sistemas
+
 🌿 Front-end and Back-end
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+😄 Pronomes: Ela/Dela
+
 
   <a href="https://instagram.com/bxpinheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatobiancapinheiropassos15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_"></a>
@@ -29,5 +21,7 @@ Here are some ideas to get you started:
 </div>
   
   ##
+  
+  ![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapinheirx&show_icons=true&theme=radical)
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
