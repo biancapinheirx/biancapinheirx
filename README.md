@@ -2,7 +2,7 @@
 
 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 
-🌿 Front-end and Back-end
+🌿 Back-end
 
 😄 Pronouns: Ela/dela
 
