@@ -2,7 +2,7 @@
 
 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 
-🌿 Back-end
+🌿 Full Stack e RPA
 
 😄 Pronouns: Ela/dela
 
